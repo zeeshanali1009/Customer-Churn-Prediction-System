@@ -43,3 +43,6 @@ Built a Streamlit app to take user inputs and predict churn probability in real-
 Model successfully predicts customer churn with an accuracy of ~82% on the test set.
 The app displays the probability of churn and indicates whether a customer is likely to stay or leave.
 The system can handle various customer profiles and provide actionable insights for retention strategies.
+
+
+https://customer-churn-prediction-system-oqrbwjvnxmir6ufpdlvc9c.streamlit.app/
