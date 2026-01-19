@@ -2,6 +2,8 @@
 
 *(End-to-End Machine Learning Project)*
 
+[![CI - Docker Build Test](https://github.com/zeeshanali1009/Customer-Churn-Prediction-System/actions/workflows/ci.yml/badge.svg)](https://github.com/zeeshanali1009/Customer-Churn-Prediction-System/actions/workflows/ci.yml)
+
 ---
 
 ## 🎯 Client Problem Statement (Real-World Scenario)
